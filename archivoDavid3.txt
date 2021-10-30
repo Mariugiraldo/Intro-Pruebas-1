@@ -1,2 +1,4 @@
 archivo 3 creado por David modificado para generar conflicto
 
+archivo 3 creado por David
+cambio de David para generar conflicto
